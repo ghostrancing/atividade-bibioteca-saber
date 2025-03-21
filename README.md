@@ -7,5 +7,6 @@ E **trello** na orgnizaçao do trabalho https://trello.com/invite/b/67d96cb69f29
 nossa logo e essa ![image](https://github.com/user-attachments/assets/f87661ed-6276-4990-b549-656347cdd85d) 
 
 
+
 feita por luiz gustavo e lucas moraes
 
